@@ -1,40 +1,35 @@
-👋 **Hi, I’m @CryptoKG94**
+<h2 font-weight="bold">Crypto Lover.</h2>
 
 *I really love my work and that passion is reflected in the quality of my code.
 I'm passionate about solving challenging problems that others find difficult or impossible.*
 
-**What I can do:**
-- Blockchain(Ethereum | Solana | Binance Smart Chain(BSC)) 
+## What I can do:
 
-  *Ethereum*
-  
-  Defi - ERC20, Dex as Uniswap, Upgradable Contract, Lottery, Governance
-  
-  NFT - ERC721, ERC1155, Airdrop, Auctions, presale, Staking, Fractionalize.
-  
-  *Solana ( spl-token, candymachine, RUST programs )*
-  
-  DeFi - Token, DeFi as Serum or Raydium etc
-  
-  NFT - Metaplex NFT, NFT Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
-  
-- Full-stack(Web development)
+### Blockchain(Ethereum | Solana | Binance Smart Chain(BSC)) 
 
-  *Web based system development(MERN, MEAN, PHP, Laravel, CI, Mysql...)*
+  #### Ethereum ( Solidity/Web3/React Developer )
+  * ERC20, Upgradable Contract, Staking, Presale,
+  * Uniswap & Pancakeswap & Sushiswap Fork,
+  * Olympus DAO fork,
+  * NFT Minting Site, NFT Staking, NFT Marketplace,
+  #### Solana ( RUST/Anchor Developer )
+  * SPL-token, 
+  * Experience in Serum's on-chain OrderBook.  
+  #### Cosmos SDK
   
-  *Ecommerce website development(Woocommerce, Shopify...)*
 
-- Experience 
+### Experience 
+  * Solidity, Rust, Hardhat, Truffle, Remix
+  * Openzeppelin, Anchor, Web3.js, Cosm.js
+  * NodeJS | ReactJs | NextJS | AngularJS,
+  * HTML5, CSS3, JavaScript, MySQL, MongoDB, PHP,
+  * C, C++, C#,
+####
 
-  *Solidity, Rust, TronWeb, Web3.js*
+<br />
   
-  *NodeJS | ReactJs | VueJs | AngularJS*
-  
-  *HTML5, CSS3, JavaScript, MySQL, MongoDB, PHP*
-  
-  *C, C++, C#*
+![](https://komarev.com/ghpvc/?username=cryptokg94&color=dc143c)
 
+ <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptokg94&layout=compact&theme=monokai&count_private=true">
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptokg94&show_icons=true)
