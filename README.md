@@ -10,18 +10,20 @@ I'm passionate about solving challenging problems that others find difficult or 
   #### Ethereum ( Solidity/Web3/React Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
   * Uniswap & Pancakeswap & Sushiswap Fork,
-  * Olympus DAO fork,
-  * NFT Minting Site, NFT Staking, NFT Marketplace,
+  * Olympus DAO & Titano & BakedBeans fork,
+  * NFT Minting & Staking & Marketplace,
   * Trading bots
   #### Solana ( RUST/Anchor Developer )
   * SPL-token, 
   * Experience in Serum's on-chain OrderBook.  
-  #### Cosmos SDK
+  #### Cosmos
+  * Wasmswap, CW20/CW721, Airdrop, Staking Contract
+  * Experience in CosmJS and integration to FE
   
 
 ### Experience 
   * Solidity, Rust, Hardhat, Truffle, Remix
-  * Openzeppelin, Anchor, Web3.js, Cosm.js
+  * Openzeppelin, Anchor, Cosmwasm, Web3.js, Cosm.js
   * NodeJS | ReactJs | NextJS | AngularJS,
   * HTML5, CSS3, JavaScript, MySQL, MongoDB, PHP,
   * C, C++, C#,
