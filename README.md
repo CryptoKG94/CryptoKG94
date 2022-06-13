@@ -33,6 +33,6 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ![](https://komarev.com/ghpvc/?username=CryptoKG94&color=dc143c)
 
- <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CryptoKG94&layout=compact&theme=monokai&count_private=true&exclude_repo=CryptoKG94.github.io&hide=php">
+ <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CryptoKG94&layout=compact&theme=monokai&count_private=true&exclude_repo=CryptoKG94.github.io&hide=php">
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoKG94&theme=dark&show_icons=true&count_private=true&exclude_repo=CryptoKG94.github.io) -->
