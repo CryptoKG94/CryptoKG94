@@ -15,6 +15,7 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Trading bots
   #### Solana ( RUST/Anchor Developer )
   * SPL-token, 
+  * Candy machine and Metaplex
   * Experience in Serum's on-chain OrderBook.  
   #### Cosmos
   * Wasmswap, CW20/CW721, Airdrop, Staking Contract
