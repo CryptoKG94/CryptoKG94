@@ -7,29 +7,41 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ## What I can do:
 
-### Blockchain(Ethereum | Solana | Binance Smart Chain(BSC)) 
+### Full-stack | Blockchain (Ethereum | Solana | Cosmos) 
 
   #### Ethereum ( Solidity/Web3/React Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
   * Uniswap & Pancakeswap & Sushiswap Fork,
-  * Olympus DAO & Titano & BakedBeans fork,
+  * Olympus DAO & Titano & Drip fork,
   * NFT Minting & Staking & Marketplace,
+  * Dino busd & Bnb miner & cropsfarmer fork
   * Trading bots
+  * Creation custom Dapps what customer wants
+
   #### Solana ( RUST/Anchor Developer )
   * SPL-token, 
+  * Custom solana program by Anchor/Rust
   * Candy machine and Metaplex
   * Experience in Serum's on-chain OrderBook.  
+  
   #### Cosmos
   * Wasmswap, CW20/CW721, Airdrop, Staking Contract
   * Experience in CosmJS and integration to FE
+
+  #### Full-stack
+  * Backend service by Go/Rust/Nodejs
+  * Website development by MERN/MEAN/MEVN stack.
+  * Flexible Database Management (SQL/NoSQL)
+  * Development of browser extension like crypto wallet
   
 
 ### Experience 
-  * Solidity, Rust, Hardhat, Truffle, Remix
-  * Openzeppelin, Anchor, Cosmwasm, Web3.js, Cosm.js
-  * NodeJS | ReactJs | NextJS | AngularJS,
-  * HTML5, CSS3, JavaScript, MySQL, MongoDB, PHP,
+  * Solidity, Rust, Go, Hardhat, Truffle, Remix
+  * Openzeppelin, Anchor, Cosmwasm, Web3, CosmJS
+  * React | Vue | Angular | Node JS,
+  * HTML5, CSS3, ES5/6/7, SQL/NoSQL,
   * C, C++, C#,
+  * Unity
 ####
 
 <h2> &nbsp; Github Stats </h2>
