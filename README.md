@@ -1,6 +1,6 @@
 <h2 font-weight="bold">Crypto Lover.</h2>
 
-#### Contact Info: t.me/@supercryptodev
+#### 
 
 *I really love my work and that passion is reflected in the quality of my code.
 I'm passionate about solving challenging problems that others find difficult or impossible.*
